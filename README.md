@@ -1,2 +1,2 @@
-# socallthethings
+# SocAllTheThings
 SocAllTheThings
